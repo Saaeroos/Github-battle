@@ -1,6 +1,6 @@
 # Github-battle
 
-This project was done following a tutorial in Restart Netowork.
+This project was done following a tutorial in Restart Network.
 
 link below:
 
