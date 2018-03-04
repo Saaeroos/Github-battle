@@ -9,5 +9,5 @@ This project was done following a tutorial during the guide period in Restart Ne
 ### This project was deployed using: 
 * firebase
 
-##$ link for deployed app below:
+### link for deployed app below:
 https://react-tutorial-githubbat-db9b0.firebaseapp.com
