@@ -1,7 +1,13 @@
-# Github-battle
+# Github battle
 
-This project was done following a tutorial in Restart Network.
+This project was done following a tutorial during the guide period in Restart Network.
 
-link below:
 
+### Technologies Used build this project: 
+* React
+
+### This project was deployed using: 
+* firebase
+
+##$ link for deployed app below:
 https://react-tutorial-githubbat-db9b0.firebaseapp.com
